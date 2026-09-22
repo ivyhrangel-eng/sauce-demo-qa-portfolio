@@ -22,8 +22,9 @@ O sistema deveria bloquear o avanço já no passo 3, informando que o carrinho e
 O sistema permite o fluxo completo e gera um comprovante de pedido com item total R$0,00, taxa R$0,00 e total R$0,00 — sem nenhum produto listado.
 
 ## Evidência
-- `evidencias/checkout/caso3-overview-valor-zero.png`
-- `evidencias/checkout/caso3-comprovante-valor-zero.pdf`
+![Evidência do checkout com valor zero](../evidencias/checkout/caso3-overview-valor-zero.png)
+
+[Ver comprovante do pedido em PDF](../evidencias/checkout/caso3-comprovante-valor-zero.pdf)
 
 ## Impacto
 **Observado no SauceDemo:** gera um comprovante de pedido indevido, sem produtos.
