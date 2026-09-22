@@ -1,8 +1,7 @@
 # QA Portfolio — Teste Manual Exploratório no SauceDemo
 
-Projeto de teste manual completo, do zero, aplicado a um sistema real (SauceDemo), cobrindo desde a análise de risco até a documentação formal de bugs no padrão usado por times de QA no mercado.
+Projeto de teste manual completo, do zero, aplicação de demonstração SauceDemo, cobrindo desde a análise de risco até a documentação formal de bugs no padrão usado por times de QA no mercado.
 
-> "Eu testei um sistema real, encontrei riscos e documentei tudo" — em vez de apenas listar cursos concluídos.
 
 ## O que este projeto demonstra
 
@@ -24,7 +23,7 @@ Projeto de teste manual completo, do zero, aplicado a um sistema real (SauceDemo
 |---|---|---|---|
 | 1 | [Checkout finaliza com carrinho vazio, gerando comprovante de R$0,00](bugs-encontrados/bug-01-checkout-valor-zero.md) | Alta | Alta |
 | 2 | [Logout automático por inatividade com mensagem enganosa](bugs-encontrados/bug-02-logout-mensagem-confusa.md) | Média-Alta | Alta |
-| 3 | [Sessão permanece autenticada após fechamento total do navegador](bugs-encontrados/bug-03-sessao-persistente.md) | Alta (segurança) | Alta |
+| 3 | [Sessão permanece autenticada após fechamento total do navegador](bugs-encontrados/bug-03-sessao-persistente.md) | Alta  | Alta |
 
 ## Estrutura do repositório
 
