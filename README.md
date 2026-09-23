@@ -1,6 +1,6 @@
 # QA Portfolio — Teste Manual Exploratório no SauceDemo
 
-Projeto de teste manual completo, do zero, aplicação de demonstração SauceDemo, cobrindo desde a análise de risco até a documentação formal de bugs no padrão usado por times de QA no mercado.
+Projeto pessoal de testes manuais na aplicação de demonstração SauceDemo, abrangendo planejamento, execução, documentação de defeitos e evidências de teste.
 
 
 ## O que este projeto demonstra
@@ -9,9 +9,9 @@ Projeto de teste manual completo, do zero, aplicação de demonstração SauceDe
 - Análise de risco com critérios formais de **severidade** (impacto funcional, caminho alternativo, escopo, reprodutibilidade) e **prioridade** (evidência de risco × criticidade estrutural)
 - Estratégia de teste com escopo, fora de escopo e priorização justificados
 - Cenários e casos de teste cobrindo fluxos principais, alternativos e de erro
-- Três bugs reais, documentados no formato completo de bug report (título, ambiente, pré-condição, passos, resultado esperado × obtido, evidência, impacto)
+- Três bugs documentados durante o projeto, documentados no formato completo de bug report (título, ambiente, pré-condição, passos, resultado esperado × obtido, evidência, impacto)
 - Separação disciplinada entre o que foi **observado** no ambiente de teste e o que seria **hipotético/projetado** em uma aplicação de produção real
-- Conclusão final com avaliação de qualidade e recomendação de go/no-go
+- Conclusão do projeto com avaliação dos resultados encontrados e análise sobre a liberação do sistema no contexto do exercício.
 
 ## Sistema testado
 
